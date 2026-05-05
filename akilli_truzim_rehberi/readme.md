@@ -1,0 +1,1 @@
+streamlit run akillil_truzim_rehberi_streamlit.py
